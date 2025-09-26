@@ -1,6 +1,6 @@
 # React + Vite
 
-Demo：https://kaden175ck.github.io/Create-Your-Quiz/
+Demo：https://kaden175ck.github.io/Creat-Your-Quiz/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
